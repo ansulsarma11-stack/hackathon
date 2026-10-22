@@ -1,0 +1,6 @@
+{
+  "name": "VisionAttend - Face Recognition Attendance System",
+  "description": "AI and image-based classroom attendance system with automatic face detection, student matching, unknown face flagging, and real-time attendance analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
